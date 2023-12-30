@@ -1,0 +1,7 @@
+{
+  "name": "polyglass",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
